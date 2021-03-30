@@ -10,6 +10,6 @@ to CDC 2021, by Devansh Ramgopal Agrawal and Dimitra Panagou.
 The paper is also available here.
 
 
-![docking.gif](docking.gif)
+![docking.gif](docking/docking.gif)
 
-![video.gif](video.gif)
+![video.gif](docking/video.gif)
