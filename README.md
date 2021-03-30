@@ -12,3 +12,4 @@ The paper is also available here.
 
 ![docking.gif](docking.gif)
 
+![video.gif](video.gif)
