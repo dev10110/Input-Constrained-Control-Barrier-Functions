@@ -8,3 +8,7 @@ Safe Control Synthesis via Input Constrained Control Barrier Functions
 to CDC 2021, by Devansh Ramgopal Agrawal and Dimitra Panagou. 
 
 The paper is also available here.
+
+
+![docking.gif](docking.gif)
+
