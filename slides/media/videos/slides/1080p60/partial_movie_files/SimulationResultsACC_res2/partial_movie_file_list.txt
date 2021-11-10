@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/SimulationResultsACC_res2/450974505_2403368745_2091160403.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/SimulationResultsACC_res2/34786186_403222138_4255005908.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/SimulationResultsACC_res2/34786186_1133761705_1585476274.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/SimulationResultsACC_res2/34786186_4101267234_1701497683.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/SimulationResultsACC_res2/34786186_693103195_1083977197.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/SimulationResultsACC_res2/34786186_1103991604_3807306308.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/SimulationResultsACC_res2/34786186_594580675_3143763730.mp4'

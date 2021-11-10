@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/FormalConstruction/450974505_3004289660_2648515862.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/FormalConstruction/34786186_3988381706_3744792224.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/FormalConstruction/34786186_3034245111_3617821564.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/FormalConstruction/34786186_4225507876_3524854055.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/FormalConstruction/34786186_1043245495_3062221756.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/FormalConstruction/34786186_1077938100_2270679579.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/FormalConstruction/34786186_3101125464_2899049178.mp4'

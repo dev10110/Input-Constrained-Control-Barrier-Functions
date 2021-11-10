@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/480p15/partial_movie_files/MotivatingIdea_ACC/3163782288_2765445600_2305296804.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/480p15/partial_movie_files/MotivatingIdea_ACC/2201830969_2908183375_2811654065.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/480p15/partial_movie_files/MotivatingIdea_ACC/2201830969_1291101449_1962811585.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/480p15/partial_movie_files/MotivatingIdea_ACC/2201830969_1126060677_3988958800.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/480p15/partial_movie_files/MotivatingIdea_ACC/2201830969_2382071391_3988958800.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/480p15/partial_movie_files/MotivatingIdea_ACC/2201830969_1300406574_970591321.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/480p15/partial_movie_files/MotivatingIdea_ACC/2201830969_729323998_1127281745.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/480p15/partial_movie_files/MotivatingIdea_ACC/2201830969_3401253141_2515897137.mp4'

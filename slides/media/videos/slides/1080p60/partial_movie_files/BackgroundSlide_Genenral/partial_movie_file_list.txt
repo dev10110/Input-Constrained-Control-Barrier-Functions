@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/BackgroundSlide_Genenral/450974505_1450248282_3473108314.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/BackgroundSlide_Genenral/34786186_2697197173_2299351456.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/BackgroundSlide_Genenral/34786186_3148069315_3522865614.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides/1080p60/partial_movie_files/BackgroundSlide_Genenral/34786186_3621162583_2011225957.mp4'

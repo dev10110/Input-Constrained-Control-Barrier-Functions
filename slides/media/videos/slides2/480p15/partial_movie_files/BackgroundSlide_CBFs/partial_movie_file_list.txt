@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides2/480p15/partial_movie_files/BackgroundSlide_CBFs/3163782288_1170918043_1381916991.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides2/480p15/partial_movie_files/BackgroundSlide_CBFs/2201830969_501369133_1370158168.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides2/480p15/partial_movie_files/BackgroundSlide_CBFs/2201830969_3732007540_4093455006.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides2/480p15/partial_movie_files/BackgroundSlide_CBFs/2201830969_677504164_3600144528.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides2/480p15/partial_movie_files/BackgroundSlide_CBFs/2201830969_1712761735_1420795067.mp4'
-file 'file:/Users/devanshagrawal/research/Input-Constrained-Control-Barrier-Functions/slides/media/videos/slides2/480p15/partial_movie_files/BackgroundSlide_CBFs/2201830969_2241540012_3212899989.mp4'
